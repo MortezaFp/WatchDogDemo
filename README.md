@@ -68,6 +68,12 @@ Watchdog serves as an all-in-one platform for a pipe factory, integrating produc
 
 The following screenshots showcase the application's user interface (UI), highlighting its UI features and full responsiveness across various screen sizes. Note that all data displayed in these screenshots is fictional and not representative of real factory data.
 
+https://github.com/user-attachments/assets/4a69ae84-32a7-488b-baaf-5d8b84143e02
+
+https://github.com/user-attachments/assets/271d8e7c-d396-4a8d-ad9c-a7906703392e
+
+https://github.com/user-attachments/assets/c78c5e0e-f6da-4f7e-abc7-9c5ade1b8083
+
 ![](docs/1.png)
 
 ![](docs/2.png)
